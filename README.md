@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Image description here](https://avatars.githubusercontent.com/u/52049067?s=400&u=6027082ae6696019c039f83d4fb43f994374f95a&v=4 "Welcome to my GitHub")
+## Full stack developer with over 25 years of experience. <br>
+
+> ## COBOL, Pascal, Clipper, Delphi, PHP, SQL... são apenas algumas das minhas tecnologia preferidas. <br> <br>
